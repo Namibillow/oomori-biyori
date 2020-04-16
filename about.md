@@ -29,4 +29,4 @@ For more information about my studies and work experience, please see the attach
 
 ### Contact me
 
-[akazawan73@gmail.com](mailto:akazawan73@gmail.com)
+Send me an [email](mailto:akazawan73@gmail.com) if you have any questions :) 
