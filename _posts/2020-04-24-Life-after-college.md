@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 As I graduated from university, I decided to get a master's in my interested field which was NLP or CL area. 
 
